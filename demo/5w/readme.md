@@ -104,7 +104,13 @@ The following topics cover the advantages of being on GitHub - and enabling smal
 * We make high end ideas workable on entry level systems
 * We build challenging/disruptive scenarios
 
-### Create bidirectional movements between simulation and reality
+### Everything verifiable
+
+* All algorithms have links to original source
+* All calculations explained in detail
+* Bidirectional links between our apps and Wikipedia   
+
+### Create bidirectional movement between simulation and reality
 
 * Simulation to reality: Transform ideas/demos/simulations into physical products
 * Reality to simulation: Overlay physical products with augmented reality showing the physics
