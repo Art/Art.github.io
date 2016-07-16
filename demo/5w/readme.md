@@ -9,6 +9,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 ===
 
 
+
 ## Introduction to R1
 
 
@@ -21,6 +22,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 	* Financials
 * So let's double click into the possibilities and what we know so far for art.github.io using these topic headings
 
+### See also [Demos]( #demos.md )
 
 ## 1. People / Who
 
