@@ -8,7 +8,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 [art.github.io: Demos]( https://art.github.io/demo/5w/#demos.md )
 ===
 
-The following demos are designed to run on a computer with a good GPU and rinning eith the Chrome or Firefox browsers.
+The following demos are designed to run on a computer with a good GPU and running either the Chrome or FireFox browsers.
 
 Very often they will also work - with issues - on tablets and phones.
 
