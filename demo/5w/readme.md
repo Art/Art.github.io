@@ -1,6 +1,15 @@
-# art.github.io
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]
+( https://art.github.io/demo/5w/#readme.md "View file as a web page." ) </span>
+<input type=button onclick=window.location.href='https://github.com/Art/Art.github.io/blob/master/demo/5w/readme.md'; 
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' >
 
-## Introduction
+[art.github.io]( https://art.github.io ) &raquo; 
+
+[art.github.io: Who, What, When, Where & Why]( https://art.github.io/demo/5w/#readme.md )
+===
+
+
+## Introduction to R1
 
 
 * The editor wants to know: who, what, when, where and why
@@ -10,10 +19,10 @@
 	* Strategies
 	* Markets
 	* Financials
-* So let's double click into the possibilities and what we know so far for art.github.io using these topics
+* So let's double click into the possibilities and what we know so far for art.github.io using these topic headings
 
 
-## 1. People
+## 1. People / Who
 
 * Mostly ordinary peeps 
 * Grad degree level
@@ -30,9 +39,9 @@
 
 ### Theo
 
-* Coding morning, noon and night
+* Coding late morning, noon and late night
 
-## 2. Products
+## 2. Products / What
 
 ### Overview
 
@@ -41,7 +50,7 @@
 * Taking ideas that used to be mainframe only and making them work in your browser
 * Coding for STEM peeps to read easily instead of coding to impress programmers
 
-Programmers look at the code and say: WRF, too much linear algebra
+Programmers look at the code and say: WTF, too much linear algebra
 
 Engineers and designers look at the code and say: finally code I can understand
 
@@ -79,7 +88,7 @@ The following topics cover the advantages of being on GitHub - and enabling smal
 
 
 
-## 3. Strategies
+## 3. Strategies / When
 
 ### No 'walled gardens'
 
@@ -102,19 +111,21 @@ The following topics cover the advantages of being on GitHub - and enabling smal
 
 ### Establish bidirectional-friendly creation process
 
-* Design and code a simulation base off our cookbook code examples
-* Using our parametric component technology we help you design a series of products
-* Using assembly scripts you can verify the assembly process
-* Once built and running, augmented reality helps you visualize the physics behind what you are seeing 
+* Design and code a simulation based on our cookbook code examples
+* Using our parametric component technology, we help you design a series of products
+* Using our assembly scripts you can verify the assembly process
+* Once built and running, our augmented reality scripts help you visualize the physics behind what you are seeing 
+
 
 Typical scenario
 
 * Create a 3D simulation of some aspect of the solar system
 * Design and build an [orrery]( https://en.wikipedia.org/wiki/Orrery ) that demonstrates the aspect
-* Use Google Cardboard, Microsoft Halo, Magic Leap or other augmented reality device to view the physics that occurring 
+* Use Google Cardboard, Microsoft Halo, Magic Leap or other augmented reality device to view the orrery with graphice overlaid that show the physics that's occurring 
 
 
-## 4. Markets
+
+## 4. Markets / Where
 
 Follow [Pareto principle]( https://en.wikipedia.org/wiki/Pareto_principle )
 
@@ -128,7 +139,7 @@ We look for
 
 
 
-## 5. Financials / Vision / Life force
+## 5. Financials / Vision / Life force / Why
 
 * All FOSS
 * Role models include
@@ -137,3 +148,5 @@ We look for
 	* Python organization
 	* Arduino
 	* Raspberry Pi
+
+

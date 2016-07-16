@@ -6,3 +6,11 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 [art.github.io read me]( https://art.github.io/index.html#readme.md )
 ===
+
+
+# Let the <span style=color:yellow >sun</span> shine in...
+
+
+
+[2016-07-16 Talking Points]( https://art.github.io/demo/5w/ )
+
