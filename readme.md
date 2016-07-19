@@ -14,7 +14,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 [Globe Old-Timey R2]( http://art.github.io/globes/old-timey/ )
 
-* Lile something out of your father's den
+* Like something out of your father's den
 
 
 [Globalemma R2]( http://art.github.io/globes/globalemma/ )
