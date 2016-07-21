@@ -20,6 +20,7 @@
 <script src=https://ladybug-analysis-tools.github.io/ladybug-web/solar-calculator-ladybug-web/solar-calculator-ladybug-web-r1.js ></script>
 
 <script>
+console.time( 'timer 0' );
 
 	var locations = [
 
@@ -491,6 +492,8 @@
 		heightMesh = new THREE.Mesh( geometry, materialOverlay );
 
 		scene.add( heightMesh );
+
+console.timeEnd( 'timer 0' );
 
 	}
 
