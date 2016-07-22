@@ -5,24 +5,9 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 [art.github.io]( https://art.github.io ) &raquo; 
 
-[Globe Old-Timey Read Me]( https://art.github.io/globes/old-timey/#readme.md )
+[Earth Global Normals]( https://art.github.io/globes/earth-globe-normals/#readme.md )
 ===
 
-
-## Full screen: [Globe Old-Timey R2]( http://art.github.io/globes/old-timey/ )
-
-3D spheres with 2D bitmap laid on top. Many little tricks available to tweak the look
- 
-https://www.chromeexperiments.com/globe
-
-http://threejs.org/examples/#misc_controls_fly
+The simplest 3D Earth
 
 
-
-
-## Change Log
-
-### 2016-07-22
-
-* Updated read me
-* Added link to the script
