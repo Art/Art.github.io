@@ -1,6 +1,6 @@
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]
-( https://art.github.io/globes/#readme.md "View file as a web page." ) </span>
-<input type=button onclick=window.location.href='https://github.com/Art/Art.github.io/blob/master/globes/readme.md'; 
+( https://art.github.io/globes/old-timey/#readme.md "View file as a web page." ) </span>
+<input type=button onclick=window.location.href='https://github.com/Art/Art.github.io/blob/master/globes/old-timey/readme.md'; 
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' >
 
 [art.github.io]( https://art.github.io ) &raquo; [globes]( https://art.github.io/globes/ ) &raquo; 
@@ -17,7 +17,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 <iframe src=https://art.github.io/globes/old-timey/index.html width=100% height=600px ></iframe>
 
 
-_Globalemma_
+_Old Timey_
 
 
 3D spheres with 2D bitmap laid on top. 
@@ -61,7 +61,7 @@ There are many available little tricks that could be used to tweak the look
 value='Source code listing' >
 
 
-* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r2.js
+* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r2.html
 * Click the 'Raw' icon and save the raw file to your computer
 * Once you've downloaded the file, you can click it to run it.
 * Open the file with a text editor
