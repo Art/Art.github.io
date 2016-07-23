@@ -16,7 +16,7 @@ This list is for sharing links, advising people of new updates to look at and so
 It is intended to inform people in a non-technical manner
 
 <iframe id="forum_embed"
-        src="https://groups.google.com/forum/embed/?place=forum/art-github-io&showsearch=true&showpopout=true&showtabs=false&parenturl=http://Art.github.io/operations/mailing-list/index.html#readme.md"
+        src="https://groups.google.com/forum/embed/?place=forum/art-github-io&showsearch=true&showpopout=true&showtabs=false&parenturl=https://Art.github.io/operations/mailing-list/index.html#readme.md"
         scrolling="no"
         frameborder="1"
         width="900"
