@@ -5,25 +5,21 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 [art.github.io]( https://art.github.io ) &raquo; 
 
-[Open Index or Markdown Read Me]( https://art.github.io/templates/open-index-or-markdown/index.html#readme.md )
+[Earth Globe Normal Read Me]( https://art.github.io/globes/earth-globe-normal/index.html#readme.md )
 ===
 
-## Full Screen: [ Open Index or Markdown ]( https://art.github.io/templates/open-index-or-markdown/index.html )
+## Full Screen: [ Earth Globe Normal ]( https://art.github.io/globes/earth-globe-normal/index.html )
 
 
 <img src="" style=display:none; width=800 >
 
 
-<iframe src=https://art.github.io/templates/open-index-or-markdown/index.html width=100% height=600px ></iframe>
+<iframe src=https://art.github.io/globes/earth-globe-normal/index.html width=100% height=600px ></iframe>
 
 
-_Open Index or Markdown_
+_Earth Globe Normal_
 
 ***
-
-[test.md]( index.hrml#test.md ]
-
-
 
 ## Concept
 
@@ -58,13 +54,13 @@ _Open Index or Markdown_
 ## Things you can do by editing the code
 
 <iframe src='https://jaanga.github.io/cookbook-html/examples/libraries/ace-editor/ace-view-r1.html#
-	https://art.github.io/templates/open-index-or-markdown/index.html' width=100% height=600 ></iframe>
+	https://art.github.io/globes/earth-globe-normal/index.html' width=100% height=600 ></iframe>
 
-<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/templates/open-index-or-markdown/index.html';
+<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/earth-globe-normal/index.html';
 value='Source code listing' >
 
 
-* Open this file: https://github.com/art/art.github.io/tree/master/templates/open-index-or-markdown/index.html
+* Open this file: https://github.com/art/art.github.io/tree/master/templates/globes/earth-globe-normal/index.html
 * Click the 'Raw' icon and save the raw file to your computer
 * Once you've downloaded the file, you can click it to run it.
 * Open the file with a text editor
@@ -100,6 +96,6 @@ Intended for general use
 
 ***
 
-<center title='Jaanga ~ your 3D happy place' >
+<center title='art.github.io ~ your 3D sunny place' >
 # <a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a>
 </center>
