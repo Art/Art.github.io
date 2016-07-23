@@ -77,7 +77,10 @@ Uses Github API to find directories with readme.md files.' >
 
 				if ( !file.match( searchInFolder ) ) { continue; }
 
+
 				if ( !file.match( searchForFile ) ) { continue; }
+
+				if ( file.match( 'globes/readme' ) ) { continue; }
 
 				files.push( file );
 
