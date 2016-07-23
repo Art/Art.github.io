@@ -5,7 +5,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 [art.github.io]( https://art.github.io ) &raquo; 
 
-[America's Greatest Makers Read Me]( https://art.github.io/projects/americas-greates-makers/#readme.md )
+[America's Greatest Makers Read Me]( https://art.github.io/projects/americas-greatest-makers/#readme.md )
 ===
 
 _Things to peruse and think about in regards to filing an application to participate._
@@ -66,6 +66,16 @@ The third is the interesting item: a 3D sensing camera.
 
 _Concepts for projects we could submit._
 
+The idea is to help peeps have a better understanding of various STEM topics by working on projects that not only do fun things,
+but you can also double-click and find out more.
+
+1. We show you how to make something - with customs plans you can print
+2. You make it - assisted by our AR tools
+3. We tell you the physics about what you have made and help you share it - using our AR tools
+
+
+
+
 ### ARrery = AR + Orrery
 
 ![]( https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Thinktank_Birmingham_-_object_1956S00682.00001%281%29.jpg/320px-Thinktank_Birmingham_-_object_1956S00682.00001%281%29.jpg )
@@ -117,6 +127,8 @@ Pointing the RealSense camera at the clARck can provides you with feedback inclu
 
 
 ### ARnalemma = AR + analemma
+
+![]( https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kew_Gardens_0502.JPG/320px-Kew_Gardens_0502.JPG )
 
 Like the orrery, we supply all plans, scripts, specs whatever to help you build a working sun dial customised for any latitude and lontitude.
 

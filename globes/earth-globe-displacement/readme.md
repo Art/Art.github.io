@@ -79,7 +79,7 @@ Intended for xxx
 ## Links of Interest
 
 * http://threejs.org/examples/#webgl_materials_displacementmap
-* StackOverflow [Apply a displacement map to a mesh in the current Three.js?]( http://stackoverflow.com/questions/33720607/apply-a-displacement-map-to-a-mesh-in-the-current-three-js 0
+* StackOverflow [Apply a displacement map to a mesh in the current Three.js?]( http://stackoverflow.com/questions/33720607/apply-a-displacement-map-to-a-mesh-in-the-current-three-js )
 * https://www.clicktorelease.com/blog/creating-android-lens-blur-depth-viewer 
 * Bitmaps/Textures: http://www.wthr.us/2013/05/23/bored-then-create-a-planet/
 * https://www.reddit.com/r/threejs/comments/4slq86/is_there_way_of_getting_self_shadowing/
