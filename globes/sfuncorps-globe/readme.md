@@ -27,7 +27,7 @@ See: http://agsiv4.wixsite.com/sfuncorps
 > energy poverty, climate change and economic empowerment through solar power
 
 
-* [Globe OLd Timey Change Notes]( Globe Old-Timey R2-ChangeNotes.pdf )
+* [Globe Old Timey Change Notes]( "https://art.github.io/globes/sfuncorps-globe/Globe%20Old-Timey%20R2-ChangeNotes.pdf" )
 
 
 ### Mission
@@ -60,13 +60,13 @@ See: http://agsiv4.wixsite.com/sfuncorps
 ## Things you can do by editing the code
 
 <iframe src='https://jaanga.github.io/cookbook-html/examples/libraries/ace-editor/ace-view-r1.html#
-	https://art.github.io/globes/sfuncorps-globe/sfuncorps-globe-r2.html' width=100% height=600 ></iframe>
+	https://art.github.io/globes/sfuncorps-globe/sfuncorps-globe-r1.html' width=100% height=600 ></iframe>
 
 <input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/sfuncorps-globe/sfuncorps-globe-r1.html';
 value='Source code listing' >
 
 
-* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r2.html
+* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r1.html
 * Click the 'Raw' icon and save the raw file to your computer
 * Once you've downloaded the file, you can click it to run it.
 * Open the file with a text editor
@@ -88,6 +88,29 @@ value='Source code listing' >
 * Adds restart rotation after three seconds pause
 * Added skybox with with stars
  
+Asked for and not done yet: 
+
+1. rounded corners on text boxes
+
+I can do this, but unlike styling a DIV this require coding in canvas markup - which I can do. 
+
+See [callout example]( http://Art.github.io/globes/sfuncorps-globe/canvas-draw-callout.html )
+
+But I would much rather do 3D text, like this:
+
+* http://threejs.org/examples/?q=log#webgl_camera_logarithmicdepthbuffer
+
+2. Deleting the menu.
+
+I just slid it off to the side at start up.
+
+Could slide in and out item be useful?
+
+
+
+
+
+
 
 ***
 
