@@ -10,17 +10,11 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 # Let the <span style=color:yellow >sun</span> shine in...
 
+<hr>
 
 
-[Globe Old-Timey R2]( http://art.github.io/globes/old-timey/ )
-
-* Like something out of your father's den
+## [Globes Menu]( http://art.github.io/globes/ )
 
 
-[Globalemma R2]( http://art.github.io/globes/globalemma/ )
-
-* Not your mother's nature
-
-
-[2016-07-16 Talking Points]( https://art.github.io/demo/5w/ )
+## [2016-07-16 Talking Points]( https://art.github.io/demo/5w/ )
 
