@@ -18,3 +18,4 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 ## [2016-07-16 Talking Points]( https://art.github.io/operations/5w/ )
 
+## [art-github-io@googlegroups.com Mailing List Read Me]( https://art.github.io/operations/mailing-list/ )
