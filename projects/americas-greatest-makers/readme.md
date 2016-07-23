@@ -23,6 +23,17 @@ _logo copyright venertainment_
 
 [Venertainment]( https://venertainment.com/ )
 
+### Pages from the Application Form that need filling out
+
+* https://venertainment.com/America-s-Greatest-Makers/apply-now.php
+* https://venertainment.com/America-s-Greatest-Makers/apply-now-step2.php
+* https://venertainment.com/America-s-Greatest-Makers/apply-now-step3.php
+* https://venertainment.com/America-s-Greatest-Makers/apply-now-step4.php
+
+You need to fill in all the fields in order to get to the next page. Filling in 'none' or 'TBD' seems to work
+
+But the above links may be able to get you to the different pages, without entering any data.
+
 
 
 ## Instant Analysis
