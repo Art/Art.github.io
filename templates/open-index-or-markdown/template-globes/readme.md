@@ -4,15 +4,15 @@
 
 [art.github.io]( https://art.github.io ) &raquo; [globes]( https://art.github.io/globes/ ) &raquo;
 
-[XXXXXX Read Me]( https://art.github.io/xxxxxx/index.html#readme.md )
+[XXXXXX Read Me]( https://art.github.io/globes/xxxxxx/index.html#readme.md )
 ===
 
-## Full Screen: [ XXXXXX ]( https://art.github.io/xxxxxx/index.html )
+## Full Screen: [ XXXXXX ]( https://art.github.io/globes/xxxxxx/index.html )
 
 
-<img src="XXXX" style=display:none; width=800 >
+<img src="" style=display:none; width=800 >
 
-<iframe src=https://art.github.io/xxxxxx/index.html width=100% height=600px ></iframe>
+<iframe src=https://art.github.io/globes/xxxxxx/index.html width=100% height=600px ></iframe>
 
 _XXXXXX_
 
@@ -51,13 +51,13 @@ _XXXXXX_
 ## Things you can do by editing the code
 
 <iframe src='https://jaanga.github.io/cookbook-html/examples/libraries/ace-editor/ace-view-r1.html#
-	https://art.github.io/xxxxxx/xxxxxx-r1.html' width=100% height=600 ></iframe>
+	https://art.github.io/globes/xxxxxx/xxxxxx-r1.html' width=100% height=600 ></iframe>
 
-<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/xxxxxx/xxxxxx-r1.html';
+<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/xxxxxx/xxxxxx-r1.html';
 value='Source code listing' >
 
 
-* Open this file: https://github.com/art/art.github.io/tree/master/xxxxxx/xxxxxx-r1.html
+* Open this file: https://github.com/art/art.github.io/tree/master/globes/xxxxxx/xxxxxx-r1.html
 * Click the 'Raw' icon and save the raw file to your computer
 * Once you've downloaded the file, you can click it to run it.
 * Open the file with a text editor
