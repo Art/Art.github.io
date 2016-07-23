@@ -16,7 +16,7 @@ This list is for sharing links, advising people of new updates to look at and so
 It is intended to inform people in a non-technical manner
 
 <iframe id="forum_embed"
-        src="https://groups.google.com/forum/embed/?place=forum/art-github-io&showsearch=true&showpopout=true&showtabs=false&parenturl=http://art.github.io/operations/mailing-list/gg-test.html"
+        src="https://groups.google.com/forum/embed/?place=forum/art-github-io&showsearch=true&showpopout=true&showtabs=false&parenturl=http://art.github.io/operations/mailing-list/index.html"
         scrolling="no"
         frameborder="1"
         width="900"
