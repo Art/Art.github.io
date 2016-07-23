@@ -151,10 +151,31 @@ Pointing the RealSense camera at the clARck provides you with feedback including
 
 ### Further thoughts
 
-In any of the above scenarios, what nice thing could happen if a number of people are using their RealSence cameras and focussing on the project
+In any of the above scenarios, what nice thing could happen if a number of people are using their RealSence cameras and 
+focussing on the project:
 
 * In the same room?
 * Across the world?
+
+Can we build something special?
+
+Can we use Lego pieces to build our project. Or any components that could attrect sponorship
+
+Could we create a photovoltaic solar energy project?
+
+* Uses geolocation to help you tilt your panel nicely
+* AR creates a demo of photons coming in and being put to work or reflected or wasted
+
+Can we build a [theramin]( https://en.wikipedia.org/wiki/Theremin ) using the RealSense camera?
+
+Could we build a musical instrument using the controller?
+
+
+
+
+
+ 
+
 
 
 
