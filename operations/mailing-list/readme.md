@@ -19,7 +19,7 @@ It is intended to inform people in a non-technical manner.
 
 ## Useful links
 
-The Google Groups user interface is could use some serious updating. It's not esy to find where things are. Here are some links to help.
+The Google Groups user interface could use some serious updating. It's not easy to find where things are. So it goes. Here are some links to help.
  
 
 ### [Message Archive]( https://groups.google.com/forum/#!forum/art-github-io )
