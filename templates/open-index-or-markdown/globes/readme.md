@@ -1,8 +1,8 @@
 <span style=display:none; >[You are now in GitHub source code view - click this link to view Read Me file as a web page]
-( https://art.github.io/xxxxxx/index.html#readme.md "View file as a web page." ) </span>
-<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/xxxxxx/'; value='You are now in GitHub web page view - Click this button to view Read Me file as source code' >
+( https://art.github.io/globes/xxxxxx/index.html#readme.md "View file as a web page." ) </span>
+<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/xxxxxx/'; value='You are now in GitHub web page view - Click this button to view Read Me file as source code' >
 
-[art.github.io]( https://art.github.io ) &raquo;
+[art.github.io]( https://art.github.io ) &raquo; [globes]( https://art.github.io/globes/ ) &raquo;
 
 [XXXXXX Read Me]( https://art.github.io/xxxxxx/index.html#readme.md )
 ===

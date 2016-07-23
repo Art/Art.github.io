@@ -66,7 +66,7 @@
 
 				'<p>' +
 					'Vertical Scale: <output id=outScale >10</output>x<br>' +
-					'<input type=range id=inpScale min=-20 max=30 step=0.1 value=15 onchange=drawGlobe(); />' +
+					'<input type=range id=inpScale min=-20 max=30 step=1 value=15 onchange=drawGlobe(); />' +
 				'</p>' +
 
 				'<p>' +
