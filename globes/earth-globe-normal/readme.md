@@ -11,7 +11,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 ## Full Screen: [ Earth Globe Normal ]( https://art.github.io/globes/earth-globe-normal/index.html )
 
 
-<img src="" style=display:none; width=800 >
+<img src="https://cloud.githubusercontent.com/assets/547626/17075409/3f8494d2-5047-11e6-8cfb-b709a8600951.png" style=display:none; width=800 >
 
 
 <iframe src=https://art.github.io/globes/earth-globe-normal/index.html width=100% height=600px ></iframe>
