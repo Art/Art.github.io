@@ -20,7 +20,9 @@ value='You are now in a GitHub web page view - Click this button to view this re
 _Globalemma_
 
 
-3D spheres with 2D bitmap laid on top. Many little tricks available to tweak the look
+3D spheres with 2D bitmap laid on top. 
+
+There are many available little tricks that could be used to tweak the look
  
 
 ### Mission
@@ -53,13 +55,13 @@ _Globalemma_
 ## Things you can do by editing the code
 
 <iframe src='https://jaanga.github.io/cookbook-html/examples/libraries/ace-editor/ace-view-r1.html#
-	https://art.github.io/globes/old-timey/old-timey-r2.html' width=100% height=600 ></iframe>
+	https://art.github.io/globes/old-timey/globe-old-timey-r2.html' width=100% height=600 ></iframe>
 
-<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/old-timey/old-timey-r2.js';
+<input type=button onclick=window.location.href='https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r2.html';
 value='Source code listing' >
 
 
-* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/old-timey-r2.js
+* Open this file: https://github.com/art/art.github.io/tree/master/globes/old-timey/globe-old-timey-r2.js
 * Click the 'Raw' icon and save the raw file to your computer
 * Once you've downloaded the file, you can click it to run it.
 * Open the file with a text editor
