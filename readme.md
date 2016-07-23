@@ -16,5 +16,5 @@ value='You are now in a GitHub web page view - Click this button to view this re
 ## [Globes Menu]( http://art.github.io/globes/ )
 
 
-## [2016-07-16 Talking Points]( https://art.github.io/demo/5w/ )
+## [2016-07-16 Talking Points]( https://art.github.io/operations/5w/ )
 
