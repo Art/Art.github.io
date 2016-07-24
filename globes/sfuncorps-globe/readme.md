@@ -12,7 +12,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 ## Full screen: [SfunCorps Globe R1]( http://art.github.io/globes/sfuncorps-globe/ )
 
 
-<img src="" style=display:none; width=800 >
+<img src="https://cloud.githubusercontent.com/assets/547626/17080841/73ab0266-50f4-11e6-9ca4-fc3486908467.png" style=display:none; width=800 >
 
 <iframe src=https://art.github.io/globes/sfuncorps-globe/index.html width=100% height=600px ></iframe>
 
@@ -90,7 +90,7 @@ value='Source code listing' >
  
 Asked for and not done yet: 
 
-1. rounded corners on text boxes
+### 1. rounded corners on text boxes
 
 I can do this, but unlike styling a DIV this require coding in canvas markup - which I can do. 
 
@@ -100,7 +100,7 @@ But I would much rather do 3D text, like this:
 
 * http://threejs.org/examples/?q=log#webgl_camera_logarithmicdepthbuffer
 
-2. Deleting the menu.
+### 2. Deleting the menu.
 
 I just slid it off to the side at start up.
 
